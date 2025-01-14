@@ -1,5 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <map>
+   <appContext helpID="getting_started" path="maps/getting_started.html"/>
+   <appContext helpID="about_the_app" path="maps/about_the_app.html"/>
+   <appContext helpID="concept_what_is_the_prepscanner_dental_grading_app"
+               path="maps/concept_what_is_the_prepscanner_dental_grading_app.html"/>
+   <appContext helpID="concept_key_benefits" path="maps/concept_key_benefits.html"/>
+   <appContext helpID="your_account" path="maps/your_account.html"/>
+   <appContext helpID="task_logging_in" path="maps/task_logging_in.html"/>
+   <appContext helpID="task_resetting_your_password"
+               path="maps/task_resetting_your_password.html"/>
+   <appContext helpID="reference_account_settings"
+               path="maps/reference_account_settings.html"/>
+   <appContext helpID="app_overview" path="maps/app_overview.html"/>
+   <appContext helpID="concept_main_dashboard" path="maps/concept_main_dashboard.html"/>
+   <appContext helpID="reference_key_sections" path="maps/reference_key_sections.html"/>
+   <appContext helpID="dashboard_overview_of_tasks_and_notifications"
+               path="maps/dashboard_overview_of_tasks_and_notifications.html"/>
+   <appContext helpID="grading_panel_tools_for_cavity_prep_grading"
+               path="maps/grading_panel_tools_for_cavity_prep_grading.html"/>
+   <appContext helpID="collaboration_team_workflows_and_assignments"
+               path="maps/collaboration_team_workflows_and_assignments.html"/>
+   <appContext helpID="settings_preferences_and_notifications"
+               path="maps/settings_preferences_and_notifications.html"/>
+   <appContext helpID="navigation" path="maps/navigation.html"/>
+   <appContext helpID="task_switching_sections"
+               path="maps/task_switching_sections.html"/>
+   <appContext helpID="reference_common_icons" path="maps/reference_common_icons.html"/>
+   <appContext helpID="reference_glossary" path="maps/reference_glossary.html"/>
+   <appContext helpID="help" path="maps/help.html"/>
+   <appContext helpID="task_finding_tutorials" path="maps/task_finding_tutorials.html"/>
+   <appContext helpID="reference_contacting_support"
+               path="maps/reference_contacting_support.html"/>
    <appContext helpID="effectively_grade_student_submissions"
                path="maps/grade_student_submissions.html"/>
    <appContext helpID="master_the_use_of_measurement_tools"
