@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <map>
    <appContext helpID="effectively_grade_student_submissions"
-               path="maps/effectively_grade_student_submissions.html"/>
+               path="maps/grade_student_submissions.html"/>
    <appContext helpID="master_the_use_of_measurement_tools"
                path="maps/master_the_use_of_measurement_tools.html"/>
    <appContext helpID="task_measuring_cavity_prep_dimensions"
@@ -29,7 +29,7 @@
    <appContext helpID="reference_common_errors_in_cavity_prep"
                path="topics/references/reference_common_errors_in_cavity_prep.html"/>
    <appContext helpID="configure_and_customize_grading_rubrics"
-               path="maps/configure_and_customize_grading_rubrics.html"/>
+               path="maps/configure_grading_rubrics.html"/>
    <appContext helpID="set_up_and_adjust_rubrics"
                path="maps/set_up_and_adjust_rubrics.html"/>
    <appContext helpID="task_configuring_the_cavity_prep_rubric"
@@ -45,7 +45,7 @@
    <appContext helpID="task_managing_grading_rubric_updates"
                path="topics/tasks/task_managing_grading_rubric_updates.html"/>
    <appContext helpID="provide_detailed_feedback_to_students"
-               path="maps/provide_detailed_feedback_to_students.html"/>
+               path="maps/provide_student_feedback.html"/>
    <appContext helpID="generate_and_interpret_grading_reports"
                path="maps/generate_and_interpret_grading_reports.html"/>
    <appContext helpID="task_generating_grading_reports"
@@ -57,7 +57,7 @@
    <appContext helpID="task_providing_feedback_to_students"
                path="topics/tasks/task_providing_feedback_to_students.html"/>
    <appContext helpID="ensure_consistency_and_accuracy_in_grading"
-               path="maps/ensure_consistency_and_accuracy_in_grading.html"/>
+               path="maps/ensure_accurate_grading.html"/>
    <appContext helpID="understand_the_app_interface"
                path="maps/understand_the_app_interface.html"/>
    <appContext helpID="task_navigating_the_dental_grading_app_interface"
@@ -77,7 +77,7 @@
    <appContext helpID="reference_guidelines_for_collaborative_grading"
                path="topics/references/reference_guidelines_for_collaborative_grading.html"/>
    <appContext helpID="collaborate_efficiently_with_team_members"
-               path="maps/collaborate_efficiently_with_team_members.html"/>
+               path="maps/collaborate_with_faculty.html"/>
    <appContext helpID="understand_collaborative_features"
                path="maps/understand_collaborative_features.html"/>
    <appContext helpID="concept_what_is_collaborative_grading"
