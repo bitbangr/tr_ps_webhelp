@@ -6,7 +6,9 @@
                path="maps/concept_what_is_the_prepscanner_dental_grading_app.html"/>
    <appContext helpID="concept_key_benefits" path="maps/concept_key_benefits.html"/>
    <appContext helpID="your_account" path="maps/your_account.html"/>
-   <appContext helpID="task_logging_in" path="maps/task_logging_in.html"/>
+   <appContext helpID="task_logging_in" path="maps/task_logging_in_old.html"/>
+   <appContext helpID="sample" path="maps/task_logging_in.html"/>
+   <appContext helpID="task_register_account" path="maps/task_register_account.html"/>
    <appContext helpID="task_resetting_your_password"
                path="maps/task_resetting_your_password.html"/>
    <appContext helpID="reference_account_settings"
