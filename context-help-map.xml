@@ -4,7 +4,7 @@
    <appContext helpID="concept_what_is_the_prepscanner_dental_grading_app"
                path="maps/concept_what_is_the_prepscanner_dental_grading_app.html"/>
    <appContext helpID="your_account" path="maps/your_account.html"/>
-   <appContext helpID="task_logging_in" path="maps/task_logging_in_old.html"/>
+   <appContext helpID="task_logging_in" path="maps/task_logging_in.html"/>
    <appContext helpID="registeraccount" path="maps/task_register_account.html"/>
    <appContext helpID="task_resetting_your_password"
                path="maps/task_resetting_your_password.html"/>
