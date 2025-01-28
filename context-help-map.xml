@@ -8,7 +8,7 @@
    <appContext helpID="registeraccount" path="maps/task_register_account.html"/>
    <appContext helpID="task_resetting_your_password"
                path="maps/task_resetting_your_password.html"/>
-   <appContext helpID="reference_account_settings"
+   <appContext helpID="reference_account_registration_form_fields"
                path="maps/reference_account_settings.html"/>
    <appContext helpID="app_overview" path="maps/app_overview.html"/>
    <appContext helpID="concept_main_dashboard" path="maps/concept_main_dashboard.html"/>
@@ -30,7 +30,7 @@
    <appContext helpID="task_finding_tutorials" path="maps/task_finding_tutorials.html"/>
    <appContext helpID="reference_contacting_support"
                path="maps/reference_contacting_support.html"/>
-   <appContext helpID="effectively_grade_student_submissions"
+   <appContext helpID="grade_student_prep_submissions"
                path="maps/grade_student_submissions.html"/>
    <appContext helpID="master_the_use_of_measurement_tools"
                path="maps/master_the_use_of_measurement_tools.html"/>
