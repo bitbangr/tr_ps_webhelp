@@ -13,6 +13,19 @@
    <appContext helpID="app_overview" path="maps/understand_app_interface.html"/>
    <appContext helpID="concept_main_dashboard" path="maps/concept_main_dashboard.html"/>
    <appContext helpID="reference_key_sections" path="maps/reference_key_sections.html"/>
+   <appContext helpID="reference_settings_about_and_updates"
+               path="maps/reference_settings_about_and_updates.html"/>
+   <appContext helpID="reference_window_controls"
+               path="maps/reference_window_controls.html"/>
+   <appContext helpID="reference_account_and_logout"
+               path="maps/reference_account_and_logout.html"/>
+   <appContext helpID="reference_course_selection"
+               path="maps/reference_course_selection.html"/>
+   <appContext helpID="reference_tooth_selection"
+               path="maps/reference_tooth_selection.html"/>
+   <appContext helpID="reference_prepscanner" path="maps/reference_prepscanner.html"/>
+   <appContext helpID="reference_scans" path="maps/reference_scans.html"/>
+   <appContext helpID="reference_grade" path="maps/reference_grade.html"/>
    <appContext helpID="navigation" path="maps/navigation.html"/>
    <appContext helpID="task_switching_sections"
                path="maps/task_switching_sections.html"/>
