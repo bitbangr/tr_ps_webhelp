@@ -10,7 +10,7 @@
                path="maps/task_resetting_your_password.html"/>
    <appContext helpID="reference_account_registration_form_fields"
                path="maps/reference_account_settings.html"/>
-   <appContext helpID="app_overview" path="maps/app_overview.html"/>
+   <appContext helpID="app_overview" path="maps/understand_app_interface.html"/>
    <appContext helpID="concept_main_dashboard" path="maps/concept_main_dashboard.html"/>
    <appContext helpID="reference_key_sections" path="maps/reference_key_sections.html"/>
    <appContext helpID="dashboard_overview_of_tasks_and_notifications"
