@@ -13,14 +13,6 @@
    <appContext helpID="app_overview" path="maps/understand_app_interface.html"/>
    <appContext helpID="concept_main_dashboard" path="maps/concept_main_dashboard.html"/>
    <appContext helpID="reference_key_sections" path="maps/reference_key_sections.html"/>
-   <appContext helpID="dashboard_overview_of_tasks_and_notifications"
-               path="maps/dashboard_overview_of_tasks_and_notifications.html"/>
-   <appContext helpID="grading_panel_tools_for_cavity_prep_grading"
-               path="maps/grading_panel_tools_for_cavity_prep_grading.html"/>
-   <appContext helpID="collaboration_team_workflows_and_assignments"
-               path="maps/collaboration_team_workflows_and_assignments.html"/>
-   <appContext helpID="settings_preferences_and_notifications"
-               path="maps/settings_preferences_and_notifications.html"/>
    <appContext helpID="navigation" path="maps/navigation.html"/>
    <appContext helpID="task_switching_sections"
                path="maps/task_switching_sections.html"/>
@@ -86,26 +78,6 @@
                path="maps/compile_and_communicate_feedback.html"/>
    <appContext helpID="task_providing_feedback_to_students"
                path="topics/tasks/task_providing_feedback_to_students.html"/>
-   <appContext helpID="ensure_consistency_and_accuracy_in_grading"
-               path="maps/ensure_accurate_grading.html"/>
-   <appContext helpID="understand_the_app_interface"
-               path="maps/understand_the_app_interface.html"/>
-   <appContext helpID="task_navigating_the_dental_grading_app_interface"
-               path="topics/tasks/task_navigating_the_dental_grading_app_interface.html"/>
-   <appContext helpID="reference_user_interface_elements_of_the_dental_grading_app"
-               path="topics/references/reference_user_interface_elements_of_the_dental_grading_app.html"/>
-   <appContext helpID="reference_glossary_of_terms_for_cavity_prep"
-               path="topics/references/reference_glossary_of_terms_for_cavity_prep.html"/>
-   <appContext helpID="concept_what_is_the_dental_grading_app"
-               path="topics/concepts/concept_what_is_the_dental_grading_app.html"/>
-   <appContext helpID="implement_collaborative_workflows"
-               path="maps/implement_collaborative_workflows.html"/>
-   <appContext helpID="task_assigning_roles_in_collaborative_grading"
-               path="topics/tasks/task_assigning_roles_in_collaborative_grading.html"/>
-   <appContext helpID="reference_collaborative_grading_workflow_overview"
-               path="topics/references/reference_collaborative_grading_workflow_overview.html"/>
-   <appContext helpID="reference_guidelines_for_collaborative_grading"
-               path="topics/references/reference_guidelines_for_collaborative_grading.html"/>
    <appContext helpID="collaborate_efficiently_with_team_members"
                path="maps/collaborate_with_faculty.html"/>
    <appContext helpID="understand_collaborative_features"
@@ -114,6 +86,14 @@
                path="topics/concepts/concept_what_is_collaborative_grading.html"/>
    <appContext helpID="concept_why_is_consistency_important_in_grading"
                path="topics/concepts/concept_why_is_consistency_important_in_grading.html"/>
+   <appContext helpID="implement_collaborative_workflows"
+               path="maps/implement_collaborative_workflows.html"/>
+   <appContext helpID="task_assigning_roles_in_collaborative_grading"
+               path="topics/tasks/task_assigning_roles_in_collaborative_grading.html"/>
+   <appContext helpID="reference_collaborative_grading_workflow_overview"
+               path="topics/references/reference_collaborative_grading_workflow_overview.html"/>
+   <appContext helpID="reference_guidelines_for_collaborative_grading"
+               path="topics/references/reference_guidelines_for_collaborative_grading.html"/>
    <appContext helpID="divide_grading_responsibilities"
                path="maps/divide_grading_responsibilities.html"/>
    <appContext helpID="task_dividing_grading_responsibilities"
