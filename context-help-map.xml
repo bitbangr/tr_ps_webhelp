@@ -20,7 +20,7 @@
    <appContext helpID="reference_account_and_logout"
                path="maps/reference_account_and_logout.html"/>
    <appContext helpID="reference_course_selection"
-               path="maps/reference_course_selection.html"/>
+               path="topics/references/reference_course_selection.html"/>
    <appContext helpID="reference_tooth_selection"
                path="maps/reference_tooth_selection.html"/>
    <appContext helpID="reference_prepscanner" path="maps/reference_prepscanner.html"/>
