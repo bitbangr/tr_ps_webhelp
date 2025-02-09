@@ -22,7 +22,7 @@
    <appContext helpID="reference_course_selection"
                path="topics/references/reference_course_selection.html"/>
    <appContext helpID="reference_tooth_selection"
-               path="maps/reference_tooth_selection.html"/>
+               path="topics/references/reference_tooth_selection.html"/>
    <appContext helpID="reference_prepscanner" path="maps/reference_prepscanner.html"/>
    <appContext helpID="reference_scans" path="maps/reference_scans.html"/>
    <appContext helpID="reference_grade" path="maps/reference_grade.html"/>
