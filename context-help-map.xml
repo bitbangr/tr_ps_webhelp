@@ -18,7 +18,7 @@
    <appContext helpID="reference_window_controls"
                path="maps/reference_window_controls.html"/>
    <appContext helpID="reference_account_and_logout"
-               path="maps/reference_account_and_logout.html"/>
+               path="maps/reference_account.html"/>
    <appContext helpID="reference_course_selection"
                path="topics/references/reference_course_selection.html"/>
    <appContext helpID="reference_tooth_selection"
