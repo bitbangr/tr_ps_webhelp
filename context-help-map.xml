@@ -18,7 +18,7 @@
    <appContext helpID="reference_window_controls"
                path="maps/reference_window_controls.html"/>
    <appContext helpID="reference_account_and_logout"
-               path="maps/reference_account.html"/>
+               path="topics/references/reference_account.html"/>
    <appContext helpID="reference_course_selection"
                path="topics/references/reference_course_selection.html"/>
    <appContext helpID="reference_tooth_selection"
@@ -75,10 +75,10 @@
                path="topics/references/reference_evaluation_criteria_for_cavity_prep.html"/>
    <appContext helpID="manage_grading_rubric_updates"
                path="maps/manage_grading_rubric_updates.html"/>
-   <appContext helpID="task_regrading_submissions_after_rubric_updates"
-               path="topics/tasks/task_regrading_submissions_after_rubric_updates.html"/>
    <appContext helpID="task_managing_grading_rubric_updates"
                path="topics/tasks/task_managing_grading_rubric_updates.html"/>
+   <appContext helpID="task_regrading_submissions_after_rubric_updates"
+               path="topics/tasks/task_regrading_submissions_after_rubric_updates.html"/>
    <appContext helpID="provide_detailed_feedback_to_students"
                path="maps/provide_student_feedback.html"/>
    <appContext helpID="generate_and_interpret_grading_reports"
