@@ -1,4 +1,4 @@
-# DT PrepScanner WebHelp Output
+# Tactile Robotics DT PrepScanner WebHelp Output
 
 This repository hosts the **responsive WebHelp output** generated from the OxygenXML transformation of the Tactile Robotics DT PrepScanner Online Help Guide.
 
